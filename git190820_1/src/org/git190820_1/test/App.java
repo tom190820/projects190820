@@ -4,9 +4,9 @@ public class App {
 
 	public static void main(String[] args) {
 		for (int i = 0; i < 199; i++) {
+			System.out.println("from ¶«ÍÁ´óÌÆ ");
 			System.out.println("Hello");
 		}
-		System.out.println("hello too");
-		System.out.println("996");
+
 	}
 }
