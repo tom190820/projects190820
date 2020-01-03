@@ -7,5 +7,6 @@ public class App {
 			System.out.println("Hello");
 		}
 		System.out.println("hello too");
+		System.out.println("996");
 	}
 }
